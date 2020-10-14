@@ -20,7 +20,7 @@ Table of Contents:
 - <font color="DarkOrange">[共通] </font> [miraikeitai2020/backend-user](https://github.com/miraikeitai2020/backend-user)：サービスごとのユーザー情報を管理するためのAPI。
 - <font color="DarkRed">[Re:sns] </font> [miraikeitai2020/backend-record](https://github.com/miraikeitai2020/backend-record)：記事を管理するためのAPI。
 - <font color="DarkRed">[Re:sns] </font> [miraikeitai2020/backend-memory](https://github.com/miraikeitai2020/backend-memory)：コメントを管理するためのAPI。
-- <font color="DarkGreen">[めりはりこ]</font> [miraikeitai2020/backend-collection]()：ユーザーが所有するリストを管理するAPI。
+- <font color="DarkGreen">[Re:sns]</font> [miraikeitai2020/backend-collection]()：ユーザーが所有するリストを管理するAPI。
 - <font color="DarkGreen">[めりはりこ]</font> [miraikeitai2020/backend-log](https://github.com/miraikeitai2020/backend-log)：計測結果・ログ情報を管理するAPI
 - <font color="MediumVioletRed">[未知しるべ] </font> [miraikeitai2020/backend-spot](https://github.com/miraikeitai2020/backend-spot)：目的地（スポット）を選出するためのAPI。
 - <font color="MediumVioletRed">[未知しるべ] </font> [miraikeitai2020/backend-evaluation](https://github.com/miraikeitai2020/backend-evaluation)：目的地の評価をするためのAPI。
